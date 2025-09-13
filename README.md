@@ -1,8 +1,6 @@
 - 👋 Hi, my name is Tristan Elliott
-- 👀 I’m interested in mobile development.
-- 💞️ Checkout the app I am currently building [THIS](https://github.com/thePlebDev/Clicker)
-- 🌱 I Just released my first app [HERE](https://play.google.com/store/apps/details?id=elliott.software.clicker) and I am currently working on building a better version.
-- 📫 I can be reached on [Twitter](https://twitter.com/AndroidTristan)
+- 👀 I have gone back to school for mine engineering and will not be updating any of my projects. 我学中文 
+- 💞️ happy coding my friends. Until I meet you again
 
 <!---
 thePlebDev/thePlebDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
